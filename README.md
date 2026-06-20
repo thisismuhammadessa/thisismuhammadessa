@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋🏻, I'm Muhammad Essa</h1>
+<h1 align="center">Hi 👋 I'm Muhammad Essa</h1>
 <h3 align="center">DevOps Engineer | Turning Ideas into Reliable Systems</h3>
 
 ### Connect with me

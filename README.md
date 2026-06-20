@@ -3,10 +3,7 @@
 
 ## 📫 Contact Me
 
-
-📧 Email: thisismuhammadessa@gmail.com
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://www.linkedin.com/in/muhammad-essa-566b243a2/)
-
+[![Email](https://img.shields.io/badge/Email-thisismuhammadessa%40gmail.com-102216?style=for-the-badge&logo=gmail&logoColor=11d452)](mailto:thisismuhammadessa@gmail.com)
 
 ## 💻 Tech Stack
 

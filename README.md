@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Muhammad Essa</h1>
 <h3 align="center">DevOps Engineer | Turning Ideas into Reliable Systems</h3>
 
-### Connect with me
+## 📫 Contact Me
 
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/thisismuhammadessa) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://www.linkedin.com/in/muhammad-essa-566b243a2/)
-
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:thisismuhammadessa) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://www.linkedin.com/in/muhammad-essa-566b243a2/)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:thisismuhammadessa@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://www.linkedin.com/in/muhammad-essa-566b243a2/)
 
 ## 💻 Tech Stack
 

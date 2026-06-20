@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋 I'm Muhammad Essa</h1>
 <h3 align="center">DevOps Engineer | Turning Ideas into Reliable Systems</h3>
 
+## 💫 About Me
+
+🔭 Currently building hands-on projects in DevOps, Cloud Computing, and Automation
+
+🌱 Continuously learning Kubernetes, Docker, Terraform, CI/CD, DevSecOps, and Cloud-Native technologies
+
+🤝 Open to collaborating on DevOps, Cloud, and Open Source projects
+
+💼 Actively seeking remote opportunities in DevOps, Cloud Engineering, and Platform Engineering
+
+🚀 Passionate about Infrastructure as Code, Automation, and Scalable Cloud Solutions
+
+✨ Exploring AI-powered workflows and emerging technologies
+
+⚡ Fun fact: I enjoy turning complex infrastructure challenges into automated and reliable systems
+
 ## 💻 Tech Stack
 
 <p align="left">

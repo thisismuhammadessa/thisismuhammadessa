@@ -1,142 +1,47 @@
-<h1 align="center">Hey 👋 I'm Ftessa</h1>
-<h3 align="center">Junior DevOps | Cloud Enthusiast | Linux | Docker | AWS</h3>
+<h1 align="center">Hi 👋, I'm Hi 👋🏻, I'm Muhammad Essa</h1>
+<h3 align="center">DevOps Engineer | Turning Ideas into Reliable Systems</h3>
 
-<p align="center">
-  Passionate about building reliable, automated, and scalable systems.  
-  Currently focused on DevOps, Cloud, Linux, Docker, Git/GitHub, and hands-on project building.
+### Connect with me
+
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/thisismuhammadessa) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-essa-566b243a2/)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thisismuhammadessa&color=11d452&style=for-the-badge" alt="Visitor Badge" />
 </p>
 
----
+## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="55" alt="jenkins logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="python logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo" />
-</div>
-
----
-
-## About Me
-
-- 👀 Interested in **DevOps, Cloud Engineering, and Automation**
-- 🌱 Currently learning **Docker, AWS, Linux Administration, CI/CD, and Shell Scripting**
-- 🛠️ Building hands-on projects to strengthen real-world skills
-- 🎯 Looking for **Junior DevOps / Cloud / Linux Support opportunities**
-- 💡 Focused on clean documentation, problem solving, and practical learning
-- 📍 Based in **Karachi, Pakistan**
-
----
-
-## What I Work With
-
-### Cloud & DevOps
-- AWS
-- Docker
-- Docker Compose
-- Jenkins
-- CI/CD Concepts
-- Linux Administration
-
-### Version Control & Collaboration
-- Git
-- GitHub
-- Branching
-- Pull Requests
-- Merge Workflow
-
-### Scripting & Backend
-- Bash
-- Python
-- Flask
-- MySQL
-
-### Core Practices
-- Networking Basics
-- Server Troubleshooting
-- Deployment Automation
-- Containerization
-- Logging & Monitoring Basics
-
----
-
-## Featured Projects
-
-### 1. Two-Tier Flask App
-A containerized Flask application with MySQL integration, Dockerfile, multi-stage Dockerfile, Docker Compose, volumes, and networking.
-
-### 2. Docker Multi-Stage Build Practice
-Optimized image builds with smaller production images and cleaner deployment workflow.
-
-### 3. Linux Lab
-Practical work with users, permissions, processes, services, logs, and common troubleshooting tasks.
-
-### 4. Git & GitHub Practice Repo
-Daily practice with commits, branching, merging, pull requests, and collaboration workflow.
-
-### 5. AWS Learning Lab
-Hands-on practice with EC2, IAM, security groups, storage, and basic cloud deployment concepts.
-
----
-
-## Current Learning Goals
-
-- Master Linux fundamentals
-- Improve Docker and Docker Compose skills
-- Learn AWS more deeply
-- Build CI/CD pipelines
-- Practice infrastructure and deployment workflows
-- Create job-ready DevOps projects for GitHub
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="160" />
-</div>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-102216?style=for-the-badge&logo=gnubash&logoColor=11d452" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-102216?style=for-the-badge&logo=python&logoColor=11d452" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-102216?style=for-the-badge&logo=mysql&logoColor=11d452" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-102216?style=for-the-badge&logo=docker&logoColor=11d452" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-102216?style=for-the-badge&logo=kubernetes&logoColor=11d452" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-102216?style=for-the-badge&logo=amazonaws&logoColor=11d452" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-102216?style=for-the-badge&logo=googlecloud&logoColor=11d452" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Azure-102216?style=for-the-badge&logo=azure&logoColor=11d452" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Terraform-102216?style=for-the-badge&logo=terraform&logoColor=11d452" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-102216?style=for-the-badge&logo=ansible&logoColor=11d452" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Prometheus-102216?style=for-the-badge&logo=prometheus&logoColor=11d452" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-102216?style=for-the-badge&logo=grafana&logoColor=11d452" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-102216?style=for-the-badge&logo=githubactions&logoColor=11d452" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Nginx-102216?style=for-the-badge&logo=nginx&logoColor=11d452" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/TensorFlow-102216?style=for-the-badge&logo=tensorflow&logoColor=11d452" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit-Learn-102216?style=for-the-badge&logo=scikitlearn&logoColor=11d452" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Jira-102216?style=for-the-badge&logo=jira&logoColor=11d452" alt="Jira"/>
+  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitLab-102216?style=for-the-badge&logo=gitlab&logoColor=11d452" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Linux-102216?style=for-the-badge&logo=linux&logoColor=11d452" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-102216?style=for-the-badge&logo=ubuntu&logoColor=11d452" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-102216?style=for-the-badge&logo=git&logoColor=11d452" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" alt="GitHub"/>
 </p>
 
----
+## 📊 Engineering Metrics
 
-## Open to Opportunities
-
-I am actively looking for:
-- Junior DevOps roles
-- Cloud support roles
-- Linux support roles
-- Internship opportunities
-- Entry-level infrastructure jobs
-
----
-
-<p align="center">
-  <b>Learning every day. Building every day. Growing into DevOps.</b>
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thisismuhammadessa&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thisismuhammadessa&layout=compact&theme=cobalt" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisismuhammadessa&theme=cobalt" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisismuhammadessa&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />

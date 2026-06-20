@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋 I'm Muhammad Essa</h1>
+<h1 align="center">Hi 👋, I'm Hi 👋🏻, I'm Muhammad Essa</h1>
 <h3 align="center">DevOps Engineer | Turning Ideas into Reliable Systems</h3>
 
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/thisismuhammadessa) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-essa-566b243a2/)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thisismuhammadessa&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
 
 ## 💻 Tech Stack
 
